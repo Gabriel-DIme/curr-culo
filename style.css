@@ -1,0 +1,12 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+body{
+    background-image: linear-gradient(to top right, #280D93, #0C042D);
+}
+body {
+    color: #FFFF;
+    font-family: "Inter", sans-serif ;
+    font-optical-sizing: auto;
+  
+}
